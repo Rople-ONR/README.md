@@ -1,8 +1,8 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=180&text=Hello%20World!&animation=fadeIn&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello%20World&animation=blink&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">I can</h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> I can use: </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -14,7 +14,7 @@
           </div>
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">STATES</h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Rople-ONR&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Rople-ONR&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rople-ONR&layout=compact&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
