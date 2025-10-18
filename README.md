@@ -14,7 +14,7 @@ Hello! My name is rople! Nice to meet you!
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rople-ONR)](&hide=stars,contribs&count_private=true&show_icons=true&&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Rople-ONR=anuraghazra&theme=tokyonight&show_icons=true)
 ![Top Langs](github-readme-stats.vercel.app/api?username=Rople-ONR&show_icons=true)
 
 
