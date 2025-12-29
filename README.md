@@ -1,3 +1,4 @@
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello%20World&animation=blink&fontColor=ffffff&fontSize=50" />
     </div>
@@ -10,12 +11,10 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <br/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
           </div>
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Rople-ONR&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rople-ONR&layout=compact&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff"
-           /> </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Stats </h2>
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rople-ONR)](https://github.com/anuraghazra/github-readme-stats)
     </div>
     
