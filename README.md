@@ -15,6 +15,6 @@
     </div>
     <div align= "center"> 
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Stats </h2>
-        [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rople-onr)](https://github.com/anuraghazra/github-readme-stats)﻿
+        [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rople-ONR)](https://github.com/anuraghazra/github-readme-stats)﻿
     </div>
     
