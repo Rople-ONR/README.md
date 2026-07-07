@@ -20,6 +20,6 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
     />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rople-ONR&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
-           /> </div> 
+           </div> 
     </div>
     
